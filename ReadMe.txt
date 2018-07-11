@@ -1,4 +1,4 @@
-This is the Nightshade from UT3 version Beta 1, a vehicle imported to UT2004.
+Unreal Tournament III Nightshade imported to Unreal Tournament 2004, beta 2.
 
 _Copyright:_
 » 100GPing100 (José Luís)
